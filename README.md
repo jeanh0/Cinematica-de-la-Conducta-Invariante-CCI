@@ -1,5 +1,5 @@
 # Cinematica de la Conducta Invariante (CCI)
-[ CORE_ALLOC: 100% | MULTI_LATER: ACTIVE ➔ TRIAGE_PHASE_03 // KERNEL: STABLE ]
+[ CORE_ALLOC: 100% | MULTI_LAYER: ACTIVE ➔ TRIAGE_PHASE_03 // KERNEL: STABLE ]
 
 ## About Me (Perfil del Autor / Arquitecto)
 Operador de sistemas y arquitectura de primeros principios. No busco convencer a nadie, busco ejecutar soluciones lógicas desde la raíz. Analista estructural enfocado en la deconstrucción de flujos, la metrología de la conducta y la teoría de redes, operando fuera del ruido corporativo y las modas de oficina.
